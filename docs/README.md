@@ -7,6 +7,10 @@ Rust是一种系统编程语言，专注于强大的编译时正确性保证，�
 
 点击这里获取最新文章：[Here](/rust/)
 
+## Python
+
+点击这里获取最新文章：[Here](/python/)
+
 ## Docker
 
 点击这里获取最新文章：[Here](/docker/)
